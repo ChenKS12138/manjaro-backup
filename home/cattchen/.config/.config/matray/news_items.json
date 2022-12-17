@@ -1,0 +1,53 @@
+{
+  "Items" : [
+    {
+      "GUID" : "forum.manjaro.org-topic-128453",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-12-06-kernels-mesa-plasma-cinnamon-nvidia-libreoffice-pipewire-virtualbox/128453",
+      "Title" : "[Stable Update] 2022-12-06 - Kernels, Mesa, Plasma, Cinnamon, Nvidia, LibreOffice, Pipewire, Virtualbox",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-12-06T07:15:29Z",
+      "PublishedDateUnix" : 1670310929,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-126824",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-11-14-kernels-gnome-43-1-plasma-5-26-3-systemd-251-8-firefox-106-0-5-thunderbird-lxqt/126824",
+      "Title" : "[Stable Update] 2022-11-14 - Kernels, GNOME 43.1, Plasma 5.26.3, Systemd 251.8, Firefox 106.0.5, Thunderbird, LXQt",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-11-14T10:07:04Z",
+      "PublishedDateUnix" : 1668420424,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-125684",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-11-02-kernel-plasma-5-26-2-plasma-mobile-gear-22-09-libreoffice-virtualbox-7-0-2-systemd-mesa/125684",
+      "Title" : "[Stable Update] 2022-11-02 - Kernel, Plasma 5.26.2, Plasma Mobile Gear 22.09, LibreOffice, Virtualbox 7.0.2, Systemd, Mesa",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-11-02T08:51:08Z",
+      "PublishedDateUnix" : 1667379068,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-123838",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-10-10-kernels-octopi-deepin-glibc-haskell-python-nvidia-520-56-06/123838",
+      "Title" : "[Stable Update] 2022-10-10 - Kernels, Octopi, Deepin, GlibC, Haskell, Python; Nvidia 520.56.06",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-10-10T12:19:46Z",
+      "PublishedDateUnix" : 1665404386,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-123404",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-10-05-kernels-systemd-amdvlk-deepin-pamac-qemu-thunderbird-firefox-0-a-d-gradience-linux-firmware-wine-gnome-pipewire/123404",
+      "Title" : "[Stable Update] 2022-10-05 - Kernels, Systemd, AMDVLK, Deepin, Pamac, QEMU, Thunderbird, Firefox, 0 A.D., Gradience, Linux Firmware, WINE, GNOME, Pipewire",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-10-05T19:54:28Z",
+      "PublishedDateUnix" : 1664999668,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    }
+  ]
+}

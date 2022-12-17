@@ -1,0 +1,48 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2IOYIzPUzZZULh8IymJzgvLw9vN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "NextRunPlatformUpdateBuild": "IC-223.7571.182/2022.3",
+    "NextRunPlatformUpdateVersion": "2022.3",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-222.4459.24-63c2c3708c41b3dc6d684c2e2e643a0ca4d1d9b1264e8f4cdd27fd47a204b651",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-222.4459.24",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1671204044877",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "gotit.previous.run": "IC-222.4459.24",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ4459.24",
+    "last_opened_file_path": "/home/cattchen/Codes/github.com/ChenKS12138/njupt-exercise",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "IC-222.4459.24",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/cattchen/Codes/github.com/ChenKS12138/njupt-exercise"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

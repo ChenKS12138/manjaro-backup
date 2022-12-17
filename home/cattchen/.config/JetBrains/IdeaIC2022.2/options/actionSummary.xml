@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Exit">
+      <i c="2" l="1671204400571" />
+    </e>
+    <e n="Maven.DownloadAllSourcesAndDocs">
+      <i c="1" l="1670054082618" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1670054401570" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1670054068104" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1670054011921" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1671204047493" />
+    </e>
+  </component>
+</application>

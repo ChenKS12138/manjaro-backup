@@ -1,0 +1,27 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+DP-1=DP-1
+DP-1 Height 2560x1440 DP-1=1372
+DP-1 Width 2560x1440 DP-1=2556
+DP-1 XPosition 2560x1440 DP-1=2
+DP-1 YPosition 2560x1440 DP-1=22
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACfwAAAUuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/usr/share/wallpapers/Kite/contents/images/640x480.jpg
+File2[$e]=/usr/share/wallpapers/Bamboo at Night/contents/screenshot.png
+File3[$e]=/usr/share/wallpapers/Bamboo at Night/contents/images/5120x2880.png
+Name1[$e]=640x480.jpg
+Name2[$e]=screenshot.png
+Name3[$e]=5120x2880.png

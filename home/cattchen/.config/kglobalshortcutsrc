@@ -1,0 +1,285 @@
+[ActivityManager]
+_k_friendly_name=Activity Manager
+switch-to-activity-489f50b5-587b-402c-a96a-10ed09253edc=none,none,Switch to activity "默认"
+
+[KDE Keyboard Layout Switcher]
+Switch to Next Keyboard Layout=none,none,Switch to Next Keyboard Layout
+_k_friendly_name=Keyboard Layout Switcher
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
+_k_friendly_name=Accessibility
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Disable Touchpad
+Enable Touchpad=Touchpad On,Touchpad On,Enable Touchpad
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Toggle Touchpad
+_k_friendly_name=Touchpad
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Switch Display
+
+[khotkeys]
+_k_friendly_name=Custom Shortcuts Service
+{078f46ef-89c6-4f74-a331-d698b8db306a}=Meta+Ctrl+Q,none,lockscreen
+{aa2ae227-23cf-4922-baa1-fac1a2af271c}=Meta+Ctrl+Shift+Q,none,suspend
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,搜索
+
+[kmix]
+_k_friendly_name=音频音量
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,降低麦克风音量
+decrease_volume=Volume Down,Volume Down,降低音量
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,提高麦克风音量
+increase_volume=Volume Up,Volume Up,提高音量
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,麦克风静音
+mute=Volume Mute,Volume Mute,静音
+
+[ksmserver]
+Halt Without Confirmation=none,,Halt Without Confirmation
+Lock Session=Screensaver\tMeta+L,Meta+L\tScreensaver,Lock Session
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Log Out
+Log Out Without Confirmation=none,,Log Out Without Confirmation
+Reboot Without Confirmation=none,,Reboot Without Confirmation
+_k_friendly_name=Session Management
+
+[kwin]
+Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,激活请求注意的窗口
+Decrease Opacity=none,none,降低活动窗口不透明度 5 %
+Expose=Ctrl+F9,Ctrl+F9,显示/隐藏窗口平铺 (当前桌面)
+ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),显示/隐藏窗口平铺 (全部桌面)
+ExposeClass=Ctrl+F7,Ctrl+F7,显示/隐藏窗口平铺 (窗口类)
+ExposeClassCurrentDesktop=none,none,显示/隐藏窗口平铺 (当前桌面的窗口类)
+Increase Opacity=none,none,提高活动窗口不透明度 5 %
+Invert Screen Colors=none,none,屏幕反色
+Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,杀死窗口
+MoveMouseToCenter=Meta+F6,Meta+F6,移动鼠标到中央
+MoveMouseToFocus=Meta+F5,Meta+F5,移动鼠标到焦点
+MoveZoomDown=none,none,将缩放区域向下移动
+MoveZoomLeft=none,none,将缩放区域向左移动
+MoveZoomRight=none,none,将缩放区域向右移动
+MoveZoomUp=none,none,将缩放区域向上移动
+Overview=Meta+W,Meta+W,显示/隐藏桌面总览
+Setup Window Shortcut=none,none,设置窗口快捷键
+Show Desktop=Meta+D,Meta+D,暂时显示桌面
+ShowDesktopGrid=Meta+F8,Meta+F8,显示虚拟桌面网格
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,暂停显示特效合成
+Switch One Desktop Down=Meta+Ctrl+Down,Meta+Ctrl+Down,切换到下面的桌面
+Switch One Desktop Up=Meta+Ctrl+Up,Meta+Ctrl+Up,切换到上面的桌面
+Switch One Desktop to the Left=Meta+Ctrl+Left,Meta+Ctrl+Left,切换到左边的桌面
+Switch One Desktop to the Right=Meta+Ctrl+Right,Meta+Ctrl+Right,切换到右边的桌面
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,切换到下方的窗口
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,切换到左边的窗口
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,切换到右边的窗口
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,切换到上方的窗口
+Switch to Desktop 1=Ctrl+F1,Ctrl+F1,切换到桌面 1
+Switch to Desktop 10=none,none,切换到桌面 10
+Switch to Desktop 11=none,none,切换到桌面 11
+Switch to Desktop 12=none,none,切换到桌面 12
+Switch to Desktop 13=none,none,切换到桌面 13
+Switch to Desktop 14=none,none,切换到桌面 14
+Switch to Desktop 15=none,none,切换到桌面 15
+Switch to Desktop 16=none,none,切换到桌面 16
+Switch to Desktop 17=none,none,切换到桌面 17
+Switch to Desktop 18=none,none,切换到桌面 18
+Switch to Desktop 19=none,none,切换到桌面 19
+Switch to Desktop 2=Ctrl+F2,Ctrl+F2,切换到桌面 2
+Switch to Desktop 20=none,none,切换到桌面 20
+Switch to Desktop 3=Ctrl+F3,Ctrl+F3,切换到桌面 3
+Switch to Desktop 4=Ctrl+F4,Ctrl+F4,切换到桌面 4
+Switch to Desktop 5=none,none,切换到桌面 5
+Switch to Desktop 6=none,none,切换到桌面 6
+Switch to Desktop 7=none,none,切换到桌面 7
+Switch to Desktop 8=none,none,切换到桌面 8
+Switch to Desktop 9=none,none,切换到桌面 9
+Switch to Next Desktop=none,none,切换到下一个桌面
+Switch to Next Screen=none,none,切换到下一屏幕
+Switch to Previous Desktop=none,none,切换到上一个桌面
+Switch to Previous Screen=none,none,切换到上一个屏幕
+Switch to Screen 0=none,none,切换到屏幕 0
+Switch to Screen 1=none,none,切换到屏幕 1
+Switch to Screen 2=none,none,切换到屏幕 2
+Switch to Screen 3=none,none,切换到屏幕 3
+Switch to Screen 4=none,none,切换到屏幕 4
+Switch to Screen 5=none,none,切换到屏幕 5
+Switch to Screen 6=none,none,切换到屏幕 6
+Switch to Screen 7=none,none,切换到屏幕 7
+Toggle Night Color=none,none,切换夜间颜色
+Toggle Window Raise/Lower=none,none,窗口置前或置后
+Walk Through Desktop List=none,none,遍历桌面列表
+Walk Through Desktop List (Reverse)=none,none,遍历桌面列表(反向)
+Walk Through Desktops=none,none,遍历桌面
+Walk Through Desktops (Reverse)=none,none,遍历桌面(反向)
+Walk Through Windows=Alt+Tab,Alt+Tab,Walk Through Windows
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Walk Through Windows (Reverse)
+Walk Through Windows Alternative=none,none,Walk Through Windows Alternative
+Walk Through Windows Alternative (Reverse)=none,none,Walk Through Windows Alternative (Reverse)
+Walk Through Windows of Current Application=Alt+`,Alt+`,Walk Through Windows of Current Application
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application Alternative=none,none,Walk Through Windows of Current Application Alternative
+Walk Through Windows of Current Application Alternative (Reverse)=none,none,Walk Through Windows of Current Application Alternative (Reverse)
+Window Above Other Windows=none,none,让窗口常居顶端
+Window Below Other Windows=none,none,让窗口常居底端
+Window Close=Alt+F4,Alt+F4,关闭窗口
+Window Fullscreen=none,none,将窗口放至全屏
+Window Grow Horizontal=none,none,水平最大化窗口
+Window Grow Vertical=none,none,垂直最大化窗口
+Window Lower=none,none,降低窗口
+Window Maximize=Meta+PgUp,Meta+PgUp,最大化窗口
+Window Maximize Horizontal=none,none,水平最大化窗口
+Window Maximize Vertical=none,none,垂直最大化窗口
+Window Minimize=Meta+PgDown,Meta+PgDown,最小化窗口
+Window Move=none,none,移动窗口
+Window Move Center=none,none,移动窗口到中心
+Window No Border=none,none,隐藏窗口边框
+Window On All Desktops=none,none,将窗口放到全部桌面
+Window One Desktop Down=Meta+Ctrl+Shift+Down,Meta+Ctrl+Shift+Down,窗口下移一个桌面
+Window One Desktop Up=Meta+Ctrl+Shift+Up,Meta+Ctrl+Shift+Up,窗口上移一个桌面
+Window One Desktop to the Left=Meta+Ctrl+Shift+Left,Meta+Ctrl+Shift+Left,窗口左移一个桌面
+Window One Desktop to the Right=Meta+Ctrl+Shift+Right,Meta+Ctrl+Shift+Right,窗口右移一个桌面
+Window Operations Menu=Alt+F3,Alt+F3,窗口操作菜单
+Window Pack Down=none,none,下移窗口
+Window Pack Left=none,none,左移窗口
+Window Pack Right=none,none,右移窗口
+Window Pack Up=none,none,上移窗口
+Window Quick Tile Bottom=Meta+Down,Meta+Down,将窗口快速铺至下方
+Window Quick Tile Bottom Left=none,none,将窗口快速铺至左下方
+Window Quick Tile Bottom Right=none,none,将窗口快速铺至右下方
+Window Quick Tile Left=Meta+Left,Meta+Left,将窗口快速铺至左侧
+Window Quick Tile Right=Meta+Right,Meta+Right,将窗口快速铺至右侧
+Window Quick Tile Top=Meta+Up,Meta+Up,将窗口快速铺至上方
+Window Quick Tile Top Left=none,none,将窗口快速铺至左上方
+Window Quick Tile Top Right=none,none,将窗口快速铺至右上方
+Window Raise=none,none,升起窗口
+Window Resize=none,none,更改窗口大小
+Window Shade=none,none,折叠窗口
+Window Shrink Horizontal=none,none,水平收缩窗口
+Window Shrink Vertical=none,none,垂直收缩窗口
+Window to Desktop 1=none,none,窗口到桌面 1
+Window to Desktop 10=none,none,窗口到桌面 10
+Window to Desktop 11=none,none,窗口到桌面 11
+Window to Desktop 12=none,none,窗口到桌面 12
+Window to Desktop 13=none,none,窗口到桌面 13
+Window to Desktop 14=none,none,窗口到桌面 14
+Window to Desktop 15=none,none,窗口到桌面 15
+Window to Desktop 16=none,none,窗口到桌面 16
+Window to Desktop 17=none,none,窗口到桌面 17
+Window to Desktop 18=none,none,窗口到桌面 18
+Window to Desktop 19=none,none,窗口到桌面 19
+Window to Desktop 2=none,none,窗口到桌面 2
+Window to Desktop 20=none,none,窗口到桌面 20
+Window to Desktop 3=none,none,窗口到桌面 3
+Window to Desktop 4=none,none,窗口到桌面 4
+Window to Desktop 5=none,none,窗口到桌面 5
+Window to Desktop 6=none,none,窗口到桌面 6
+Window to Desktop 7=none,none,窗口到桌面 7
+Window to Desktop 8=none,none,窗口到桌面 8
+Window to Desktop 9=none,none,窗口到桌面 9
+Window to Next Desktop=none,none,窗口到下一桌面
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,窗口到下一屏幕
+Window to Previous Desktop=none,none,窗口到前一桌面
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,窗口到前一屏幕
+Window to Screen 0=none,none,窗口到屏幕 0
+Window to Screen 1=none,none,窗口到屏幕 1
+Window to Screen 2=none,none,窗口到屏幕 2
+Window to Screen 3=none,none,窗口到屏幕 3
+Window to Screen 4=none,none,窗口到屏幕 4
+Window to Screen 5=none,none,窗口到屏幕 5
+Window to Screen 6=none,none,窗口到屏幕 6
+Window to Screen 7=none,none,窗口到屏幕 7
+_k_friendly_name=KWin
+view_actual_size=Meta+0,Meta+0,缩放为实际大小(A)
+view_zoom_in=Meta++,Meta++,放大(I)
+view_zoom_out=Meta+-,Meta+-,缩小(O)
+
+[mediacontrol]
+_k_friendly_name=媒体控制器
+mediavolumedown=none,none,媒体音量降低
+mediavolumeup=none,none,媒体音量提高
+nextmedia=Media Next,Media Next,播放下一首媒体
+pausemedia=Media Pause,Media Pause,暂停媒体播放
+playmedia=none,none,播放媒体
+playpausemedia=Media Play,Media Play,播放/暂停媒体播放
+previousmedia=Media Previous,Media Previous,播放上一首媒体
+stopmedia=Media Stop,Media Stop,停止媒体播放
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin 文件管理器
+_launch=Meta+E,Meta+E,Dolphin 文件管理器
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,在剪贴板内容上运行命令
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=绘文字选取器
+_launch=Meta+.,Meta+.,绘文字选取器
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,截取活动窗口
+CurrentMonitorScreenShot=none,none,截取当前显示器
+FullScreenScreenShot=Shift+Print,Shift+Print,截取整个桌面
+OpenWithoutScreenshot=none,none,启动时不进行截图
+RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,截取矩形区域
+WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,捕获光标所在窗口
+_k_friendly_name=Spectacle 截图工具
+_launch=Print,Print,Spectacle 截图工具
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Decrease Screen Brightness
+Hibernate=Hibernate,Hibernate,Hibernate
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Increase Keyboard Brightness
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Increase Screen Brightness
+PowerDown=Power Down,Power Down,Power Down
+PowerOff=Power Off,Power Off,Power Off
+Sleep=Sleep,Sleep,Suspend
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Keyboard Backlight
+Turn Off Screen=none,none,Turn Off Screen
+_k_friendly_name=Power Management
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
+activate task manager entry 10=none,Meta+0,Activate Task Manager Entry 10
+activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2
+activate task manager entry 3=Meta+3,Meta+3,Activate Task Manager Entry 3
+activate task manager entry 4=Meta+4,Meta+4,Activate Task Manager Entry 4
+activate task manager entry 5=Meta+5,Meta+5,Activate Task Manager Entry 5
+activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
+activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
+activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
+activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
+activate widget 25=none,none,激活 应用程序菜单 挂件
+clear-history=none,none,清除剪贴板历史(L)
+clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,自动弹出操作菜单
+cycle-panels=Meta+Alt+P,Meta+Alt+P,Move keyboard focus between panels
+cycleNextAction=none,none,下一条历史记录
+cyclePrevAction=none,none,上一条历史记录
+edit_clipboard=none,none,编辑内容(E)…
+manage activities=Meta+Q,Meta+Q,Show Activity Switcher
+next activity=none,Meta+Tab,Walk through activities
+previous activity=none,Meta+Shift+Tab,Walk through activities (Reverse)
+repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,在当前剪贴板上手动执行操作
+show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
+show-barcode=none,none,显示条形码(S)…
+show-on-mouse-pos=Meta+V,Meta+V,在鼠标光标位置弹出 Klipper
+stop current activity=Meta+S,Meta+S,Stop Current Activity
+switch to next activity=none,,Switch to Next Activity
+switch to previous activity=none,,Switch to Previous Activity
+toggle do not disturb=none,none,切换勿扰模式
+
+[systemsettings.desktop]
+_k_friendly_name=系统设置
+_launch=Tools,Tools,系统设置
+kcm-kscreen=none,none,显示器配置
+kcm-lookandfeel=none,none,全局主题
+kcm-users=none,none,用户
+powerdevilprofilesconfig=none,none,节能
+screenlocker=none,none,锁屏
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=F12,F12,Open/Retract Yakuake

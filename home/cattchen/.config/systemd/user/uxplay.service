@@ -1,0 +1,8 @@
+[Service]
+WorkingDirectory=/
+ExecStart=bash -c 'XDG_RUNTIME_DIR=/run/user/$(id -u) /usr/bin/uxplay -s 2560x1440@75 -fps 75 -fs'
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

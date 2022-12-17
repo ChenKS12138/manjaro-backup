@@ -1,0 +1,12 @@
+[MainWindow]
+CommandList=
+DP-1 HDMI-1-5=DP-1
+DP-1 HDMI-1-5 XPosition 2560x1440 DP-1=880
+DP-1 HDMI-1-5 YPosition 2560x1440 DP-1=412
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=0
+isMinimized=false

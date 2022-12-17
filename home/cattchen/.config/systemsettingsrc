@@ -1,0 +1,31 @@
+[KFileDialog Settings]
+Recent Files[$e]=kde-i3.sh,file:$HOME/.config/plasma-workspace/env/kde-i3.sh
+Recent URLs[$e]=file:$HOME/.config/plasma-workspace/,file:$HOME/,file:$HOME/.config/plasma-workspace/env/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+DP-1 Height 2560x1440 DP-1=499
+DP-1 Width 2560x1440 DP-1=368
+
+[MainWindow]
+DP-1=DP-1
+DP-1 HDMI-1-5=DP-1
+DP-1 HDMI-1-5 XPosition 2560x1440 DP-1=770
+DP-1 HDMI-1-5 YPosition 2560x1440 DP-1=362
+DP-1 Height 2048x1152 DP-1=1109
+DP-1 Height 2409x1355 DP-1=1301
+DP-1 Height 2560x1440 DP-1=1386
+DP-1 Width 2048x1152 DP-1=2045
+DP-1 Width 2409x1355 DP-1=2406
+DP-1 Width 2560x1440 DP-1=2556
+DP-1 XPosition 2048x1152 DP-1=2
+DP-1 XPosition 2409x1355 DP-1=2
+DP-1 XPosition 2560x1440 DP-1=2
+DP-1 YPosition 2048x1152 DP-1=42
+DP-1 YPosition 2409x1355 DP-1=53
+DP-1 YPosition 2560x1440 DP-1=52
+DP-4 XPosition 2560x1440=74
+DP-4 YPosition 2560x1440=442
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACWYAAAUVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

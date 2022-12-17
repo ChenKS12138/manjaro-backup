@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-CO8RW1.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+text/html=google-chrome.desktop
+
+[Added Associations]
+x-scheme-handler/tg=userapp-Telegram Desktop-CO8RW1.desktop;
